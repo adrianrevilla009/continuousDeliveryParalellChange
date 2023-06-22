@@ -7,9 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="practica_v3" />
-        <module name="practica_v3 (1)" />
         <module name="practica_v2" />
+        <module name="practica_v5" />
         <module name="practica_1_testing" />
+        <module name="practica_v3 (1)" />
+        <module name="practica_v7" />
+        <module name="practica_v6" />
+        <module name="practica_v8" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -17,6 +21,10 @@
       <module name="practica_v2" target="11" />
       <module name="practica_v3" target="11" />
       <module name="practica_v3 (1)" target="11" />
+      <module name="practica_v5" target="11" />
+      <module name="practica_v6" target="11" />
+      <module name="practica_v7" target="11" />
+      <module name="practica_v8" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -25,6 +33,10 @@
       <module name="practica_v2" options="-parameters" />
       <module name="practica_v3" options="-parameters" />
       <module name="practica_v3 (1)" options="-parameters" />
+      <module name="practica_v5" options="-parameters" />
+      <module name="practica_v6" options="-parameters" />
+      <module name="practica_v7" options="-parameters" />
+      <module name="practica_v8" options="-parameters" />
     </option>
   </component>
 </project>
