@@ -6,14 +6,6 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="practica_v3" />
-        <module name="practica_v2" />
-        <module name="practica_v5" />
-        <module name="practica_1_testing" />
-        <module name="practica_v3 (1)" />
-        <module name="practica_v7" />
-        <module name="practica_v6" />
-        <module name="practica_v8" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
