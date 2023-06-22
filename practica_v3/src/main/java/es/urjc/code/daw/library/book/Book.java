@@ -17,6 +17,8 @@ public class Book {
 	
 	private String description;
 
+	private String preface;
+
 	public Book() {}
 
 	public Book(String nombre, String description) {
@@ -47,6 +49,15 @@ public class Book {
 
 	public void setId(long id) {
 		this.id = id;
+	}
+
+	public String getPreface() {
+		return this.preface != null ? this.preface : this.description;
+	}
+
+	public void setPreface(String preface) {
+		this.description = preface;
+		this.preface = preface;
 	}
 
 	@Override
